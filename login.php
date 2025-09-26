@@ -36,7 +36,7 @@
 
   <div class="already-a-member p-3 d-flex flex-column justify-content-center align-items-center text-light">
     <p>Not a member ?<span><a href="./register.php">Register Now</a></span></p>
-    <a href="./index.html">Back to Home</a>
+    <a href="./index1.php">Back to Home</a>
 </div>
 </form>
 </div>
